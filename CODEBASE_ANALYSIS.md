@@ -64,7 +64,7 @@ typedef enum CommProtocolEnum : unsigned char {
 
 ### Complexity Level: ⭐⭐⭐⭐⭐
 
-The A* pathfinding implementation with multiple movement types is extraordinarily complex.
+The AI pathfinding implementation with multiple movement types is extraordinarily complex.
 
 ### Key Components:
 
